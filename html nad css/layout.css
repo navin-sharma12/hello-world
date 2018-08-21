@@ -37,3 +37,21 @@ padding-right:15px}
 .slider .col6:first-child h1{font-size: 45px;font-weight: normal;color: #aaa}
 .slider .col6:first-child p{color:#666;}
 .slider .col6:first-child h1 span{color: rgb(254,152,15);}
+.footer{background-color: rgb(230,230,230);}
+.footer .col2 ul{list-style: none;padding: 10px 0}
+.footer .col2 ul li{padding:7px 0;}
+.footer .col2 ul li a{color:#666;text-decoration: none}
+.footer .col2 ul li a:hover{text-decoration: underline;}
+.footer .col2 h2{font-variant: small-caps;color: #222;
+font-weight: normal}
+.fix{clear: both;}
+.footer_bottom , .footer_top {border:1px solid; padding: 20px 0}
+.footer_bottom{border-top:1px solid #ccc}
+.footer_top .col2 p{color:666;padding:5px 0;}
+.footer_top .col2 img{border-radius:5px;border:1px solid #eee;}
+.footer_top .col2 h1{text-transform: uppercase;font-size: 25px;font-weight: normal;padding-bottom: 10px}
+.footer_top .col2 p{color: #666;font-size: 14px}
+.footer_top .col2 h1 span{color: rgb(254,152,15);}
+.footer .col3 p{padding: 10px 0; color: #666;line-height: 150%}
+.txt{width: 50%;height: 30px;border:1px solid #999;}
+
